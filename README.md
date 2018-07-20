@@ -20,3 +20,14 @@
 
 ## 结果
 ![结果](https://github.com/YcherishY/linux/raw/master/picture/2.png)
+
+# 三.获取最大文件夹
+## 思路
+
+1.
+2.
+3.
+4.
+
+## 结果
+![结果](https://github.com/YcherishY/linux/raw/master/picture/3.png)
